@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: addon\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_EN\n"
+"PO-Revision-Date: 2021-02-11 21:00+0200\n"
+
+msgctxt "Addons::name::soneritics_promotionstats"
+msgid "Soneritics Promotion Statistics"
+msgstr "Soneritics Promotion Statistics"
+
+msgctxt "Addons::description::soneritics_promotionstats"
+msgid "Find out how your promotions are being used"
+msgstr "Find out how your promotions are being used"
+
+msgctxt "Languages::soneritics_promotionstats_menu"
+msgid "Promo statistics"
+msgstr "Promo statistics"
+
+msgctxt "Languages::addons.soneritics_promotionstats.manage.orders_sidebar"
+msgid "This is the overview of the orders for this promotion/promotion code."
+msgstr "This is the overview of the orders for this promotion/promotion code."
+
+msgctxt "Languages::addons.soneritics_promotionstats.manage.overview_sidebar"
+msgid "This is the overview of promotion codes that have been used in orders. You can click the code or the promotion to view the orders."
+msgstr "This is the overview of promotion codes that have been used in orders. You can click the code or the promotion to view the orders."
